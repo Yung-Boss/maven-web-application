@@ -7,6 +7,7 @@
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOT</version> 
+	<version>0.0.2</version>
 	
 	<name>maven-web-application</name>
 
@@ -95,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.234.76.208:8081/repository/Yung-web-releases/</url>
+	      <url>http://54.82.254.77:8081/repository/boss-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.234.76.208:8081/repository/Yung-fe-snapshots/</url>
+	      <url>http://54.82.254.77:8081/repository/boss-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
